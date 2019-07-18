@@ -1,20 +1,11 @@
+// Place your settings in this file to overwrite default and user settings.
 {
-    "powershell.codeFormatting.preset": "Custom",
-    "powershell.codeFormatting.whitespaceBeforeOpenBrace": true,
-    "powershell.codeFormatting.whitespaceBeforeOpenParen": true,
-    "powershell.codeFormatting.whitespaceAroundOperator": true,
-    "powershell.codeFormatting.whitespaceAfterSeparator": true,
-    "powershell.codeFormatting.ignoreOneLineBlock": true,
-    "powershell.codeFormatting.newLineAfterCloseBrace": false,
-    "powershell.codeFormatting.newLineAfterOpenBrace": true,
-    "powershell.codeFormatting.openBraceOnSameLine": true,
-    "powershell.codeFolding.enable": true,
-    "powershell.codeFormatting.alignPropertyValuePairs": false,
-    "powershell.bugReporting.project": "https://github.com/AsBuiltReport/AsBuiltReport.VMware.vSphere/",
-    "editor.tabSize": 4,
-    "editor.insertSpaces": true,
-    "editor.detectIndentation": false,
-    "editor.rulers": [
-        115
-    ]
+  "powershell.codeFormatting.openBraceOnSameLine": false,
+  "powershell.codeFormatting.newLineAfterOpenBrace": true,
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 4,
+  "[json]": {
+    "editor.tabSize": 2
+  }
 }
